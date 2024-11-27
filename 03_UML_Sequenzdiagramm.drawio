@@ -7,7 +7,7 @@
                 <mxCell id="2" value="sd: Pommes" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="120" y="80" width="600" height="590" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="p: Pommes" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+                <mxCell id="3" value="p: Pommes" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=40;" vertex="1" parent="1">
                     <mxGeometry x="490" y="320" width="100" height="280" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="3">
