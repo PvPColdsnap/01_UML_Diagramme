@@ -1,0 +1,55 @@
+<mxfile host="65bd71144e">
+    <diagram id="ZZMuCm8rfkKRyYvoC7D-" name="Seite-1">
+        <mxGraphModel dx="1086" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="Fluggast" style="html=1;shape=mxgraph.sysml.actPart;strokeWidth=3;verticalAlign=top;rotation=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="160" width="360" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Abfertigung" style="html=1;shape=mxgraph.sysml.actPart;strokeWidth=3;verticalAlign=top;rotation=0;whiteSpace=wrap;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="160" width="200" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="html=1;shape=mxgraph.sysml.actFinal;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="600" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="shape=ellipse;html=1;fillColor=strokeColor;strokeWidth=2;verticalLabelPosition=bottom;verticalAlignment=top;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="200" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Ticket zeigen" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="280" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Ticket überprüfen" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="280" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Kundendienst konsultieren" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="414" y="710" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="TIcket zeigen" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="710" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="Service kontaktieren" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="700" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Ticket am Schalter zeigen" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="760" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Ticket am Schalter zeigen" style="shape=rect;html=1;rounded=1;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="760" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8" target="9">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="290" y="410" as="sourcePoint"/>
+                        <mxPoint x="450" y="410" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7" target="8">
+                    <mxGeometry width="160" relative="1" as="geometry">
+                        <mxPoint x="290" y="310" as="sourcePoint"/>
+                        <mxPoint x="490" y="310" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
